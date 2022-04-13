@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"f0c3d2cb-f49c-4891-806a-7f003debd5d6",
+	"author":	"Sualp Ozel",
+	"description":	{
+		"":	"Create many duplicate components"
+	},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
